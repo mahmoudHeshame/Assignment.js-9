@@ -1,0 +1,42 @@
+body{
+    background-color: #f7ecde;
+    color: #352e28;    
+  
+}
+/* .text{
+border-bottom: 100PX 30PX #FFF
+} */
+.text h1{ 
+    font-size: 50px;
+    font-family: "Pacifico", cursive;
+    padding:  50px;
+ 
+border-bottom-style:dotted;
+
+}
+.book{
+    color: #3ca55c;
+    font-family: "Righteous", cursive;
+    font-size: 25px;
+      
+}
+.inp{
+font-weight: bold;
+}
+.btn1{
+   width: 150px; 
+  font-size: 18px;
+  color: #fff;
+ background-color: red;
+ border: none;
+ border-radius: 5px;
+}
+.butbtn{
+    border-bottom-style: dotted;
+    padding: 15px;
+    
+}
+.table{
+    font-size: 16px bold;
+  
+}
